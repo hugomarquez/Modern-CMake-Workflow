@@ -1,0 +1,8 @@
+build/*
+!build/.keep
+
+docs/*
+!docs/.keep
+
+lib/*
+!lib/.keep
